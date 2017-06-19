@@ -1,5 +1,5 @@
 PORTFOLIO WEBSITE
-***
+===
 
 This package demonstrates practical part of frontend project to create
 portfolio using HTML/CSS techniques. 
