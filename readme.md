@@ -1,15 +1,15 @@
 # PORTFOLIO WEBSITE
 
-This package demonstrates practical part of frontend project to create
-portfolio using HTML/CSS techniques. 
+This package demonstrates practical part of portfolio project
+as part of Udacity course.
 
-  https://github.com/Maksym-UA/UdacityPortfolio
+https://github.com/Maksym-UA/UdacityPortfolio
 
 ## SETUP
 
- 1. Install any text editor like Notepad++, Atom, etc.
+ 1. Install any text editor like [Notepad++] https://notepad-plus-plus.org/download/v7.4.2.html, [Atom] https://atom.io/, etc.
  
- 2. Modify index.html if you would like to add new elements, functionality or 
+ 2. Open and modify ``` index.html ``` if you would like to add new elements, functionality or 
 	change layouts.
 
  3. Modify main.css if you want to add / delete / modify cascade stylesheet rules.
@@ -29,4 +29,4 @@ You can learn more about HTML and CSS visit https://www.w3schools.com/
 
 Please send you feedback to
 
-  max.savin3@gmail.com
+max.savin3@gmail.com
