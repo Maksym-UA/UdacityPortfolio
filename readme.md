@@ -1,16 +1,14 @@
-PORTFOLIO WEBSITE
-==
+#PORTFOLIO WEBSITE
 
 This package demonstrates practical part of frontend project to create
 portfolio using HTML/CSS techniques. 
 
-  https://github.com/Maksym-UA/UdacityPortfolio
+  (https://github.com/Maksym-UA/UdacityPortfolio)
 
-SETUP
-===
+##SETUP
 
  1. Install any text editor like Notepad++, Atom, etc.
-
+ 
  2. Modify index.html if you would like to add new elements, functionality or 
 	change layouts.
 
@@ -20,15 +18,14 @@ SETUP
 
  5. Open index.html in any webbrowser.
 
-ABOUT THE CODE
-===
+###ABOUT THE CODE
+
 
 The example code was written from scratch using recommended techniques from Udacity class.
 
-You can learn more about HTML and CSS visit https://www.w3schools.com/ 
+You can learn more about HTML and CSS visit (https://www.w3schools.com/) 
 
-CONTACT
-===
+###CONTACT
 
 Please send you feedback to
 
